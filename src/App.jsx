@@ -44,7 +44,7 @@ export default function ComingSoonElephantLab() {
             Sanat × teknoloji tabanlı deneyimler. İlk gösterim için yakında tekrar bak.
           </p>
           <blockquote className={styles.motto}>
-            “Fil, doğruluğu, aklı ve ölçülü olmayı simgeler.” <span>— Leonardo da Vinci</span>
+            “Fil, doğruluğu, aklı ve ölçülü olmayı simgeler.” <span>—</span>
           </blockquote>
         </div>
 
